@@ -1,0 +1,16 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Codebook_DTtidy1.txt
+#	new file:   Codebook_DTtidy1_info.txt
+#	new file:   Codebook_DTtidy2.txt
+#	new file:   Codebook_DTtidy2_info.txt
+#	new file:   DTtidy2_project.txt
+#	modified:   README.md
+#	new file:   run_analysis.R
+#
+
